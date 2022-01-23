@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - tube1
+  - tube2
+  - tube3
+  - tube4
+  - tube5
+  - tube6
+  - tube7
+  - tube8
+  - tube9
+  - tube10
+  - tube0
+  - ball1
+  - ball2
+  - ball3
+  - ball4
+  - ball5
+  - ball6
+  - ball7
+  - ball8
+  - ball9
+  - ball10
+  - ball11
+  - ball12
+  - ball13
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
